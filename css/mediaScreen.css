@@ -1,0 +1,42 @@
+@media (max-width: 576px) {
+
+    .perfil{
+        padding-top: 10px;
+        margin-left: 75px;
+        margin-bottom: 20px;
+        width: 350px;
+        padding-left: 10px;
+    }
+
+    .social-1{
+        width: 150px;
+    }
+}
+
+
+@media (min-width: 576px) {
+
+    body {
+        background-color: aqua;
+    }
+}
+
+@media (min-width: 768px) {
+
+    body {
+        background-color: rgb(255, 123, 0);
+    }
+}
+
+@media (min-width: 992px) {
+    body {
+        background-color: rgb(255, 0, 200);
+    }
+}
+
+
+@media (min-width: 1200px) {
+    body {
+        background-color: rgb(5, 5, 5);
+    }
+}
