@@ -1,18 +1,30 @@
 @media (max-width: 576px) {
 
-    .perfil{
-        padding-top: 10px;
-        margin-left: 75px;
-        margin-bottom: 20px;
-        width: 350px;
-        padding-left: 10px;
+    .perfil {
+        /*  background-color: rgb(255, 145, 0);*/
+        width: 530px;
+        margin: 0 auto;
+
+        padding-left: 90px;
     }
 
-    .social-1{
+    .social-1 {
         width: 150px;
     }
 }
 
+@media (max-width: 991px) {
+
+    .pagina_principal {
+        /*  background: rgb(93, 5, 233);*/
+    }
+
+    .perfil {
+        margin: 0 auto;
+        width: 530px;
+        margin-bottom: 30px;
+    }
+}
 
 @media (min-width: 576px) {
 

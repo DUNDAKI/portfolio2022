@@ -47,6 +47,13 @@ body {
 /*BOTOES*/
 .navbar-toggler-icon {
   background-color: white !important;
+  border:none;
+}
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
 }
 
 
